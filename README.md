@@ -1,2 +1,0 @@
-# ComfyCups
-Created with CodeSandbox
